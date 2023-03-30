@@ -7,4 +7,4 @@
 4. Enter your login and password to the `index.js`. Put shared secret code if you have.
 5. Run the app.
 6. Go to uptimerobot.com. Register, add ne app, enter a link to your replit app, set 5 mins (a free plan)
-7. Discord Server : 
+7. Discord Server : discord.io/Internoboosting
